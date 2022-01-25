@@ -42,6 +42,7 @@ const PhotoList = () => {
             className="img-thumbnail mx-1"
           />
           </a>
+          
   
       </div>
   );
