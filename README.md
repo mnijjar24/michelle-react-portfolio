@@ -15,4 +15,4 @@ The react portfolio application was created so that employers who are looking fo
 ## Links
 Deployed Application: https://mnijjar24.github.io/michelle-react-portfolio/
 Github Repo: https://github.com/mnijjar24/michelle-react-portfolio 
-Heroku: 
+Heroku: https://michelle-react-portfolio.herokuapp.com/
