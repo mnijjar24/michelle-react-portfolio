@@ -4,6 +4,13 @@ The react portfolio application was created so that employers who are looking fo
 
 ## Screenshots of the React Portfolio
 
+![1](https://user-images.githubusercontent.com/87215165/151107778-d0ce8ae9-7241-40eb-bade-2d40eb5568e2.png)
+
+![2](https://user-images.githubusercontent.com/87215165/151107779-cf788e64-d7fe-4af9-b08c-ed57ab2ae9f8.png)
+
+![3](https://user-images.githubusercontent.com/87215165/151107782-a8bc1b3c-f2f4-4470-9119-ad2c8cd6697d.png)
+
+![4](https://user-images.githubusercontent.com/87215165/151107783-091eb34d-86dd-41e6-88c3-f535b1c196a2.png)
 
 ## Links
 Deployed Application: 
